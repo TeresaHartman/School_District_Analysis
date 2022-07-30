@@ -1,6 +1,6 @@
 # School_District_Analysis
 
-## Overview of the school district analysis:
+## Overview of the school district analysis
 Explain the purpose of this analysis
 We are tasked with analyzing data over standardized math and reading test scores. Overall, we want to prepare all standardized test data for analysis, recording, and presentations to provide an insight about performance trends and patterns. More specifically, we want to see how the school's test scores are impacted by spending bugdets, school size, and type of school as these affect making decisions regarding school budgets and priorities. 
 
@@ -8,6 +8,15 @@ In addition to the above, we have been notified by the school board that there i
 
 ## Results: 
 *	How is the district summary affected?
+
+Before:
+
+![District_Summary_Module](/Images/District_Summary_Module.PNG)
+
+Afer:
+
+![District_Summary_Challenge](/Images/District_Summary_Challenge.PNG)
+
 *	How is the school summary affected?
 *	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 *	How does replacing the ninth-grade scores affect the following:
